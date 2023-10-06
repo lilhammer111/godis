@@ -24,7 +24,7 @@ godis使用go语言重写redis，采用tcp协议构建了一个集群化的内�
 ## 技术选型
 |技术|说明|官网|
 |-|-|-|
-|go-commons-pool|a generic object pool for golang|[https://gin-gonic.com/](https://github.com/jolestar/go-commons-pool)|
+|go-commons-pool|a generic object pool for golang|https://github.com/jolestar/go-commons-pool|
 
 ## 架构图
 生产了一半。。。
